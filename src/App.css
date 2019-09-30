@@ -7,8 +7,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #6183c7;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -17,6 +17,15 @@
   color: white;
 }
 
+.mm {
+align-content: center;
+
+}
 .App-link {
   color: #09d3ac;
+
 }
+.Button {
+    padding: 20px;
+}
+
